@@ -1,0 +1,36 @@
+header {
+    background-color: blue;
+    margin:0;
+    padding:0;
+    height:300px;
+    text-align: center;
+}
+
+.icon {
+    text-align:center;
+}
+
+.fa {
+    font-size: 5em;
+}
+.signupB {
+    display:block;
+    text-align: center;
+    margin: 0 auto;
+    position:absolute;
+    bottom:0;
+    text-emphasis-color: azure
+}
+.fa-bolt {
+    color:yellow;
+}
+.fa-globe {
+    color: blue;
+}
+footer {
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    bottom: 0;
+    left: 0;;
+}
